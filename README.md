@@ -2,5 +2,4 @@
 
 En esta clase
 
-
 ![imagen](./code.png)
